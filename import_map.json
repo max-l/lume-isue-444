@@ -1,0 +1,26 @@
+{
+  "imports": {
+    "lume/": "https://deno.land/x/lume@v1.18.1/",
+    "react-table": "https://esm.sh/v127/@tanstack/react-table@8.9.1",
+    "@remix-run/router": "https://esm.sh/v127/@remix-run/router@1.6.2",
+    "d3-axis": "https://esm.sh/v127/d3-axis@3.0.0",
+    "d3-array": "https://esm.sh/v127/d3-array@3.2.4",
+    "d3-scale": "https://esm.sh/v127/d3-scale@4.0.2",
+    "d3-selection": "https://esm.sh/v127/d3-selection@3.0.0",
+    "d3-zoom": "https://esm.sh/v127/d3-zoom@3.0.0",
+    "d3-shape": "https://esm.sh/v127/d3-shape@3.0.0",
+    "d3-color": "https://esm.sh/v127/d3-color@3.0.0",
+    "d3-interpolate": "https://esm.sh/v127/d3-interpolate@3.0.0",
+    "d3-scale-chromatic": "https://esm.sh/v127/d3-scale-chromatic@3.0.0",
+    "radash": "https://esm.sh/v127/radash@10.8.1",
+    "react-dom": "https://esm.sh/v127/*react-dom@18.2.0",
+    "react-dom/": "https://esm.sh/v127/*react-dom@18.2.0/",
+    "react-dom/client": "https://esm.sh/v127/*react-dom@18.2.0/client",
+    "react-router-dom": "https://esm.sh/v127/*react-router-dom@6.11.2",
+    "react-router": "https://esm.sh/v127/react-router@6.11.2",
+    "react": "https://esm.sh/v127/react@18.2.0",
+    "react/": "https://esm.sh/v127/react@18.2.0/",
+    "scheduler": "https://esm.sh/v127/scheduler@0.23.0"
+  },
+  "scopes": {}
+}
